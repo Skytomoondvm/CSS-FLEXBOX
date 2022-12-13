@@ -89,3 +89,46 @@
   height: 350px;
   border: 4px solid red;
 }
+
+.container-four {
+  border: 4px dotted red;
+  padding: 24px;
+  background-color: black;
+  width: 100%;
+  height: 500px;
+  padding: 125px;
+  display: flex;
+  justify-content: center;
+}
+
+.box-wrapper-four {
+  width: 30%;
+  height: 100%;
+  margin-right: 50px;
+}
+
+.box-four {
+  width: 100%;
+  height: 30%;
+  border: 4px solid red; 
+  padding: 24px;
+  margin-bottom: 24px;
+}
+
+.box-large-two {
+  background-color: black;
+  border: 4px solid blue;
+  width: 30%;
+  height: auto;
+}
+
+.box-small-one {
+  width: 30%;
+  height: 50px;
+  border: 4px solid red;
+}
+
+.box-wrapper-mini {
+  display: flex;
+  justify-content: space-between;
+}
